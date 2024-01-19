@@ -49,7 +49,8 @@ members
 * Window Functions for ranking
 
 ## Analysis
-Now, grab some popcorn and let's [EXPLORE](Danny's_Diner_Analysis)😃
+Now, grab some popcorn and let's [EXPLORE](https://github.com/Hardeyronkeh/Data_analysis_with_mySQL/blob/main/Danny's_Diner_Analysis.ipynb)😃
 
+or you can 👇
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hardeyronkeh/Data_analysis_with_mySQL/blob/main/Danny's_Diner_Analysis.ipynb)
